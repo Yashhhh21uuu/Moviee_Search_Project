@@ -25,15 +25,22 @@ A simple web application to search for movies and display their details using th
 
 ### Prerequisites
 - Node.js installed on your system.
+- MongoDB installed on your system.
 
 ## Project Structure
 
 movie-search-app/
 ├── public/                  # Static files (CSS, images, etc.)
+
 │   ├── styles.css           # Custom styles
+
 ├── views/                   # EJS templates
+
 │   ├── index.ejs            # Main page
+
 ├── app.js                   # Main application file
+
 ├── package.json             # Node.js dependencies and scripts
+
 └── README.md                # Documentation
 
